@@ -1,0 +1,5 @@
+PWD C:/Users/Vivi/Desktop/CanopyForceModel/Latex_Format_Explaination
+INPUT c:/texlive/2019/texmf.cnf
+INPUT c:/texlive/2019/texmf-dist/web2c/texmf.cnf
+INPUT c:/texlive/2019/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT jfm-instructions.tex

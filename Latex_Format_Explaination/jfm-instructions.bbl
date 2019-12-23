@@ -1,0 +1,18 @@
+\begin{thebibliography}{2}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\def\au#1{#1} \def\ed#1{#1} \def\yr#1{#1}\def\at#1{#1}\def\jt#1{\textit{#1}}
+  \def\bt#1{#1}\def\bvol#1{\textbf{#1}} \def\vol#1{#1} \def\pg#1{#1}
+  \def\publ#1{#1}\def\arxiv#1{#1}\def\org#1{#1}\def\st#1{\textit{#1}}
+
+\bibitem[Ang {\em et~al.\/}(1993)Ang, Wei \& Teck-Seng]{ang1993estimation}
+{\sc \au{Ang, Marcel0~H}, \au{Wei, Wang} \& \au{Teck-Seng, Low}} \yr{1993} On
+  the estimation of the large deflection of a cantilever beam.  \bt{In {\em
+  Proceedings of IECON'93-19th Annual Conference of IEEE Industrial
+  Electronics\/}},  \pg{pp. 1604--1609}. IEEE.
+
+\bibitem[Chen(2010)]{chen2010integral}
+{\sc \au{Chen, Li}} \yr{2010}  \at{An integral approach for large deflection
+  cantilever beams}.  \jt{International Journal of Non-Linear Mechanics}
+  \bvol{45}~(3),  \pg{301--305}.
+
+\end{thebibliography}
